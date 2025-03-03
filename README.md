@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, Power BI, Tableau**
+- 💬 Ask me about **Python, ML, Power BI, Tableau**
 
 - 📫 How to reach me **singhpurnima091@gmail.com**
 
